@@ -35,7 +35,9 @@
         <activity android:name="Uyg11Activity" android:label="Uygulama11"></activity>
         <activity android:name="Uyg12Activity" android:label="Uygulama12"></activity>
         <activity android:name="Uyg13Activity" android:label="Uygulama13"></activity>
-        <activity android:name=".SS_165_Activity" android:label="Sıra Sizde"></activity>
+        <activity android:name="SS_165_Activity" android:label="Sıra Sizde"></activity>
+        <activity android:name=".SS_173_Activity" android:label="@string/SS"></activity>
+
 
 
     </application>
